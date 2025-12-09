@@ -6,3 +6,5 @@ O JavaScript acessa esses elementos, identifica os cliques nos botões e troca a
 No modo automático, é utilizado o setInterval para alternar as cores do semáforo sozinho, seguindo a sequência correta.
 
 Esse projeto ajudou a entender melhor manipulação do DOM, eventos, troca de imagens e controle de tempo em JavaScript.
+
+Visite meus slides https://ryuditec.github.io/slides/
